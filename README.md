@@ -9,6 +9,6 @@ Available functions in the app:
 
    MainPage
   </h1>
-  ![image](https://user-images.githubusercontent.com/85613704/160812827-b77b2c86-3f3a-463d-9d1c-e6b66e65b6d8.png)
+  
 
   ![image](https://user-images.githubusercontent.com/85613704/160806120-97863c3e-bd53-41df-8bca-45e984bd7b82.png)
