@@ -18,5 +18,5 @@ Available functions in the app:
  Saving encrypted text
 </h1>
 
-![image](https://user-images.githubusercontent.com/85613704/160814251-35a760c9-1632-45ac-a4e8-1940101ec9a8.png)
+![image](https://user-images.githubusercontent.com/85613704/160814469-10fbd776-3f50-48c4-806a-3f351246753b.png)
 
