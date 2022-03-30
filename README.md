@@ -13,3 +13,10 @@ Available functions in the app:
 </h1>
 
 ![image](https://user-images.githubusercontent.com/85613704/160806120-97863c3e-bd53-41df-8bca-45e984bd7b82.png)
+
+
+ Saving encrypted text
+</h1>
+
+![image](https://user-images.githubusercontent.com/85613704/160814251-35a760c9-1632-45ac-a4e8-1940101ec9a8.png)
+
