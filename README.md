@@ -7,6 +7,8 @@ Available functions in the app:
  3) Saving an encrypted or decrypted text files using windows file dialog
  4) Encryption and decryption using the Vigener method
 
+
+
   MainPage
 </h1>
 
