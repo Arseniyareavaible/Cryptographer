@@ -1,4 +1,4 @@
-# WPF.Cryptographer
+# WPF-Cryptographer
 Encyption and decryption by the Vigener method. Desktop app for Windows
 
 Available functions in the app:
